@@ -1,0 +1,31 @@
+
+
+
+
+
+
+Desenvolvimento Web com React, Node.js e MongoDB Atlas.
+
+
+
+Hoje optei por praticar a conexão de front com back e banco de dados, onde explorei as tecnologias React para o frontend, construindo as interfaces. No backend usei Node.js para a lógica do servidor.
+
+Para gerenciar os dados, integrei o MongoDB Atlas, aproveitando a flexibilidade de um banco de dados em nuvem. 
+
+
+
+Links
+front: https://github.com/jotaMch/ProjectHeadset
+back: https://github.com/jotaMch/back-end__node__headset
+
+#ReactJS #NodeJS #MongoDB #DesenvolvimentoWeb #FullStack #APIRESTful #WebDevelopment #Coding #LinkedInDev #TechJourney
+
+
+
+
+
+
+
+
+
+ 
