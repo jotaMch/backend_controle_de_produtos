@@ -32,4 +32,4 @@ Mongoose: ODM (Object Data Modeling) para MongoDB.
 Cors: Middleware para permitir solicitações de diferentes origens.
 
 ## Repositório Frontend:
->https://github.com/jotaMch/CRUD-Front-REACT
+>https://github.com/jotaMch/frontend_controle_de_produtos
